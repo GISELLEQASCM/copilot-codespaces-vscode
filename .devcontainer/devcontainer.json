@@ -9,3 +9,14 @@
         }
     }
 }
+    
+    This configuration file is telling GitHub Codespaces to install the GitHub Copilot extension when the Codespace is created. 
+    Now, when you create a new Codespace, the GitHub Copilot extension will be installed automatically. 
+    Conclusion 
+    GitHub Copilot is a powerful tool that can help you write code faster and more efficiently. By using it in GitHub Codespaces, you can take advantage of its features in a cloud-based development environment. 
+    In this article, you learned how to set up GitHub Codespaces and install the GitHub Copilot extension. You also learned how to create a custom configuration file to automatically install the GitHub Copilot extension when creating a new Codespace. 
+    Now that you have GitHub Copilot set up in GitHub Codespaces, you can start using it to write code more quickly and efficiently. 
+    Happy coding! 
+    About the author 
+    Chris Sev is a software engineer and educator. He writes about software development, coding, and web development. 
+    You can find him on  Twitter,  GitHub, and  LinkedIn.
